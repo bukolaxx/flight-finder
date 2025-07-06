@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "destination": "Chicago",
+    "airline": "United Airlines",
+    "price": 250,
+    "duration": "3h 30m"
+  },
+  {
+    "id": 2,
+    "destination": "New York",
+    "airline": "Delta",
+    "price": 300,
+    "duration": "2h 45m"
+  },
+  {
+    "id": 3,
+    "destination": "San Francisco",
+    "airline": "American Airlines",
+    "price": 400,
+    "duration": "4h 15m"
+  }
+]

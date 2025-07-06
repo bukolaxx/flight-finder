@@ -11,9 +11,9 @@ A simple React app that helps users search for flights by destination or airline
 
 ## 🧪 Technologies Used
 
-- React.js
+- React.jsx
 - JavaScript (ES6+)
-- Tailwind CSS (optional, or plain CSS)
+- Tailwind CSS
 - Git & GitHub for version control
 
 ## 📦 Getting Started
